@@ -55,7 +55,7 @@ a:focus {
     text-align: center;
     line-height: 1;
     font-size: 22px;
-    right: 15px;
+    right: 0;
     bottom: 15px;
     border-radius: 50px;
     transition: background 0.5s;
